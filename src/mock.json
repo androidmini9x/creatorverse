@@ -1,0 +1,62 @@
+[
+    {
+        id: 1,
+        name: "Debera Heintsch",
+        image: "https://source.unsplash.com/random/900x900/?person",
+        description: "Quality-focused encompassing workforce"
+    },
+    {
+        id: 2,
+        name: "Trula Henrych",
+        image: "https://source.unsplash.com/random/900x900/?person",
+        description: "Ameliorated web-enabled Graphic Interface"
+    },
+    {
+        id: 3,
+        name: "Abramo Unthank",
+        image: "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        description: "Operative bi-directional paradigm"
+    },
+    {
+        id: 4,
+        name: "Anatollo Jowitt",
+        image: "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        description: "Multi-layered zero defect artificial intelligence"
+    },
+    {
+        id: 5,
+        name: "Benyamin Ritchley",
+        image: "http://dummyimage.com/250x250.png/cc0000/ffffff",
+        description: "Organized mission-critical pricing structure"
+    },
+    {
+        id: 6,
+        name: "Arleen Rubenczyk",
+        image: "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        description: "Robust intangible methodology"
+    },
+    {
+        id: 7,
+        name: "Bernelle Allchorne",
+        image: "https://source.unsplash.com/random/900x700/?person",
+        description: "Future-proofed bandwidth-monitored open architecture"
+    },
+    {
+        id: 8,
+        name: "Daisey Durnell",
+        image: "http://dummyimage.com/250x250.png/dddddd/000000",
+        description: "Cloned zero administration utilisation"
+    },
+    {
+        id: 9,
+        name: "Garv McEnhill",
+        image: "https://source.unsplash.com/random/900x700/?person",
+        description: "Profound secondary strategy"
+    },
+    {
+        id: 10,
+        name: "Andres Overpool",
+        image: "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+        description: "Triple-buffered client-driven installation"
+    }
+]
